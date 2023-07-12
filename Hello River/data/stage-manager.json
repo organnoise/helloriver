@@ -1,0 +1,237 @@
+{
+	"pattrstorage" : 	{
+		"name" : "audio-manager",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"midi-harmony-on-1" : [ 0 ],
+					"midi-harmony-on-2" : [ 0 ],
+					"piano-gain" : [ 6.0 ],
+					"vocal-gain" : [ -4.160668965966053 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vst~" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "sforzando",
+							"origin" : "sforzando.vstinfo",
+							"type" : "VST",
+							"subtype" : "Instrument",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "sforzando.vstinfo",
+								"plugindisplayname" : "sforzando",
+								"pluginsavedname" : "",
+								"pluginsaveduniqueid" : 1347176273,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"blob" : "600.CMlaKA....fQPMDZ....A.ESGEE...P......TVavQWdfLGauQGL.........................H.GCUzQPIVA...dbVHUA63lv.QumuBKeOw3.ABRgrJMYUKUMpqZxpdrxAbRsVicJXPa5W+N3DHnpFYt.9Muwdlm4MKd58BIpgWVIzpDLchGF8zxQKVUJX6XM7Aghi7wnyk575LS5F.viFfWNBAOK1wMFg5TE5O0LovbAhhQUlRNq.fSv9SwnB166rHqjRc11OkfmQA3soaR+dsYqNmayhUazELCbl6jZSB1aHjj2vkIXgB165BtxfQRQC+Zx.yprDbb6KljA.TzXDusjlTkIuAuFxhWlfCA5mj5CL49ZksHA.RW+.GMRjawTrBXyIuVAJAImoDbIYUogrVqLkrLC5m5x2HaXB4Ez9u8UxW3P+g9ATVkjBlPQRatfVUmKzP07hfozHgBQCmhpN921f1XisQRU.930RcEeBDEiNvTukB0wXPY5uJfhJ62LkpUJZCbVKubUiM2akyG9UIScheiBTppJafhAepyLvkbuzAWvE0F65qBgUL1BMQmXzvj0WumH+OFzdFdOfwTmL7cxHvIiYNYD5jQjSFycxH1ICpmaJtUUpaYk5VWotEV5CU1WXkrh+8mfId9zf3PuvoyiBhhC7nOLI+go46E4MOLjFFMKXlOM9tyjzZMu88yGOxyLC8p27+WsrqJNH3pL9cWjcj0vQZAw1QZY8CP5NlO+ZZ2dBVbvKmdeZjc8y8qq3RnJ346YG5LFKHcyOWN5CvBTVWr"
+							}
+
+						}
+ ],
+					"mc_pianoGain" : [ 6.0 ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"midi-harmony-on-1" : [ 0 ],
+					"midi-harmony-on-2" : [ 0 ],
+					"piano-gain" : [ 6.0 ],
+					"vocal-gain" : [ -70.0 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vst~" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "sforzando",
+							"origin" : "sforzando.vstinfo",
+							"type" : "VST",
+							"subtype" : "Instrument",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "sforzando.vstinfo",
+								"plugindisplayname" : "sforzando",
+								"pluginsavedname" : "",
+								"pluginsaveduniqueid" : 1347176273,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"blob" : "600.CMlaKA....fQPMDZ....A.ESGEE...P......TVavQWdfLGauQGL.........................H.GCUzQPIVA...dbVHUA63lv.QumuBKeOw3.ABRgrJMYUKUMpqZxpdrxAbRsVicJXPa5W+N3DHnpFYt.9Muwdlm4MKd58BIpgWVIzpDLchGF8zxQKVUJX6XM7Aghi7wnyk575LS5F.viFfWNBAOK1wMFg5TE5O0LovbAhhQUlRNq.fSv9SwnB166rHqjRc11OkfmQA3soaR+dsYqNmayhUazELCbl6jZSB1aHjj2vkIXgB165BtxfQRQC+Zx.yprDbb6KljA.TzXDusjlTkIuAuFxhWlfCA5mj5CL49ZksHA.RW+.GMRjawTrBXyIuVAJAImoDbIYUogrVqLkrLC5m5x2HaXB4Ez9u8UxW3P+g9ATVkjBlPQRatfVUmKzP07hfozHgBQCmhpN921f1XisQRU.930RcEeBDEiNvTukB0wXPY5uJfhJ62LkpUJZCbVKubUiM2akyG9UIScheiBTppJafhAepyLvkbuzAWvE0F65qBgUL1BMQmXzvj0WumH+OFzdFdOfwTmL7cxHvIiYNYD5jQjSFycxH1ICpmaJtUUpaYk5VWotEV5CU1WXkrh+8mfId9zf3PuvoyiBhhC7nOLI+go46E4MOLjFFMKXlOM9tyjzZMu88yGOxyLC8p27+WsrqJNH3pL9cWjcj0vQZAw1QZY8CP5NlO+ZZ2dBVbvKmdeZjc8y8qq3RnJ346YG5LFKHcyOWN5CvBTVWr"
+							}
+
+						}
+ ],
+					"mc_pianoGain" : [ 6.0 ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"midi-harmony-on-1" : [ 0 ],
+					"midi-harmony-on-2" : [ 0 ],
+					"piano-gain" : [ 6.0 ],
+					"vocal-gain" : [ -70.0 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vst~" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "sforzando",
+							"origin" : "sforzando.vstinfo",
+							"type" : "VST",
+							"subtype" : "Instrument",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "sforzando.vstinfo",
+								"plugindisplayname" : "sforzando",
+								"pluginsavedname" : "",
+								"pluginsaveduniqueid" : 1347176273,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"blob" : "600.CMlaKA....fQPMDZ....A.ESGEE...P......TVavQWdfLGauQGL.........................H.GCUzQPIVA...dbVHUA63lv.QumuBKeOw3.ABRgrJMYUKUMpqZxpdrxAbRsVicJXPa5W+N3DHnpFYt.9Muwdlm4MKd58BIpgWVIzpDLchGF8zxQKVUJX6XM7Aghi7wnyk575LS5F.viFfWNBAOK1wMFg5TE5O0LovbAhhQUlRNq.fSv9SwnB166rHqjRc11OkfmQA3soaR+dsYqNmayhUazELCbl6jZSB1aHjj2vkIXgB165BtxfQRQC+Zx.yprDbb6KljA.TzXDusjlTkIuAuFxhWlfCA5mj5CL49ZksHA.RW+.GMRjawTrBXyIuVAJAImoDbIYUogrVqLkrLC5m5x2HaXB4Ez9u8UxW3P+g9ATVkjBlPQRatfVUmKzP07hfozHgBQCmhpN921f1XisQRU.930RcEeBDEiNvTukB0wXPY5uJfhJ62LkpUJZCbVKubUiM2akyG9UIScheiBTppJafhAepyLvkbuzAWvE0F65qBgUL1BMQmXzvj0WumH+OFzdFdOfwTmL7cxHvIiYNYD5jQjSFycxH1ICpmaJtUUpaYk5VWotEV5CU1WXkrh+8mfId9zf3PuvoyiBhhC7nOLI+go46E4MOLjFFMKXlOM9tyjzZMu88yGOxyLC8p27+WsrqJNH3pL9cWjcj0vQZAw1QZY8CP5NlO+ZZ2dBVbvKmdeZjc8y8qq3RnJ346YG5LFKHcyOWN5CvBTVWr"
+							}
+
+						}
+ ],
+					"mc_pianoGain" : [ 6.0 ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"midi-harmony-on-1" : [ 1 ],
+					"midi-harmony-on-2" : [ 0 ],
+					"piano-gain" : [ 6.0 ],
+					"vocal-gain" : [ -70.0 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vst~" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "sforzando",
+							"origin" : "sforzando.vstinfo",
+							"type" : "VST",
+							"subtype" : "Instrument",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "sforzando.vstinfo",
+								"plugindisplayname" : "sforzando",
+								"pluginsavedname" : "",
+								"pluginsaveduniqueid" : 1347176273,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"blob" : "600.CMlaKA....fQPMDZ....A.ESGEE...P......TVavQWdfLGauQGL.........................H.GCUzQPIVA...dbVHUA63lv.QumuBKeOw3.ABRgrJMYUKUMpqZxpdrxAbRsVicJXPa5W+N3DHnpFYt.9Muwdlm4MKd58BIpgWVIzpDLchGF8zxQKVUJX6XM7Aghi7wnyk575LS5F.viFfWNBAOK1wMFg5TE5O0LovbAhhQUlRNq.fSv9SwnB166rHqjRc11OkfmQA3soaR+dsYqNmayhUazELCbl6jZSB1aHjj2vkIXgB165BtxfQRQC+Zx.yprDbb6KljA.TzXDusjlTkIuAuFxhWlfCA5mj5CL49ZksHA.RW+.GMRjawTrBXyIuVAJAImoDbIYUogrVqLkrLC5m5x2HaXB4Ez9u8UxW3P+g9ATVkjBlPQRatfVUmKzP07hfozHgBQCmhpN921f1XisQRU.930RcEeBDEiNvTukB0wXPY5uJfhJ62LkpUJZCbVKubUiM2akyG9UIScheiBTppJafhAepyLvkbuzAWvE0F65qBgUL1BMQmXzvj0WumH+OFzdFdOfwTmL7cxHvIiYNYD5jQjSFycxH1ICpmaJtUUpaYk5VWotEV5CU1WXkrh+8mfId9zf3PuvoyiBhhC7nOLI+go46E4MOLjFFMKXlOM9tyjzZMu88yGOxyLC8p27+WsrqJNH3pL9cWjcj0vQZAw1QZY8CP5NlO+ZZ2dBVbvKmdeZjc8y8qq3RnJ346YG5LFKHcyOWN5CvBTVWr"
+							}
+
+						}
+ ],
+					"mc_pianoGain" : [ 6.0 ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"midi-harmony-on-1" : [ 1 ],
+					"midi-harmony-on-2" : [ 1 ],
+					"piano-gain" : [ -2.604181368275121 ],
+					"vocal-gain" : [ -70.0 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vst~" : [  ],
+					"mc_pianoGain" : [  ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"midi-harmony-on-1" : [ 0 ],
+					"midi-harmony-on-2" : [ 0 ],
+					"piano-gain" : [ -2.604181368275121 ],
+					"vocal-gain" : [ -4.160668965966053 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vst~" : [  ],
+					"mc_pianoGain" : [  ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

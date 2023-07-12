@@ -1,0 +1,66 @@
+{
+	"pattrstorage" : 	{
+		"name" : "inputSettings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"LInput" : [ 0.0 ],
+					"filterEdit" : [ 0 ],
+					"input_filter" : [ 2, 0, 2, 1, 0, 0, 16.417945861816406, 0.452059000730515, 0.060729000717402, 1, 1, 1, 0, 0, 5005.6669921875, 1.808383941650391, 0.865266978740692 ],
+					"bp.Compressor::Attack" : [ 150.0 ],
+					"bp.Compressor::Bypass" : [ 0.0 ],
+					"bp.Compressor::Input" : [ 42.0 ],
+					"bp.Compressor::Output" : [ 42.0 ],
+					"bp.Compressor::Ratio" : [ 48.0 ],
+					"bp.Compressor::Release" : [ 0.0 ],
+					"bp.Compressor::Threshold" : [ -36.0 ],
+					"bp.Compressor::slider[2]" : [ 150 ],
+					"bp.Compressor::slider[3]" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"LInput" : [ 0.0 ],
+					"filterEdit" : [ 0 ],
+					"input_filter" : [ 2, 0, 2, 1, 0, 0, 16.417945861816406, 0.452059000730515, 0.060729000717402, 1, 1, 1, 0, 0, 5005.6669921875, 1.808383941650391, 0.865266978740692 ],
+					"bp.Compressor::Attack" : [ 0.0 ],
+					"bp.Compressor::Bypass" : [ 0.0 ],
+					"bp.Compressor::Input" : [ 42.0 ],
+					"bp.Compressor::Output" : [ 42.0 ],
+					"bp.Compressor::Ratio" : [ 1.0 ],
+					"bp.Compressor::Release" : [ 150.0 ],
+					"bp.Compressor::Threshold" : [ -36.0 ],
+					"bp.Compressor::slider[2]" : [ 0 ],
+					"bp.Compressor::slider[3]" : [ 150 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"LInput" : [ 0.0 ],
+					"filterEdit" : [ 0 ],
+					"input_filter" : [ 2, 0, 2, 1, 0, 0, 16.417945861816406, 0.452059000730515, 0.060729000717402, 1, 1, 1, 0, 0, 5005.6669921875, 1.808383941650391, 0.865266978740692 ],
+					"bp.Compressor::Attack" : [ 0.0 ],
+					"bp.Compressor::Bypass" : [ 0.0 ],
+					"bp.Compressor::Input" : [ -42.0 ],
+					"bp.Compressor::Output" : [ -42.0 ],
+					"bp.Compressor::Ratio" : [ 1.0 ],
+					"bp.Compressor::Release" : [ 0.0 ],
+					"bp.Compressor::Threshold" : [ -36.0 ],
+					"bp.Compressor::slider[2]" : [ 0 ],
+					"bp.Compressor::slider[3]" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

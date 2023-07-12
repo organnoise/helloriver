@@ -1,0 +1,50 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u757006894",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"LEDLevelHigh" : [ 0 ],
+					"LEDLevelLow" : [ 0 ],
+					"LEDLevelOff" : [ 0 ],
+					"dayVolBox" : [ 1.0 ],
+					"doLighting" : [ 0 ],
+					"doQuiet" : [ 1 ],
+					"enableEvent[1]" : [ 1 ],
+					"enableEvent[2]" : [ 0 ],
+					"enableEvent[3]" : [ 0 ],
+					"eventTrig[1]" : [ 2 ],
+					"eventTrig[2]" : [ 0 ],
+					"eventTrig[3]" : [ 0 ],
+					"nightVolBox" : [ 0.1 ],
+					"on[0]::time" : [ 36 ],
+					"pm[0]::time" : [ 86 ],
+					"off[0]::time" : [ 90 ],
+					"on[1]::time" : [ 36 ],
+					"pm[1]::time" : [ 86 ],
+					"off[1]::time" : [ 90 ],
+					"on[2]::time" : [ 36 ],
+					"pm[2]::time" : [ 86 ],
+					"off[2]::time" : [ 90 ],
+					"on[3]::time" : [ 36 ],
+					"pm[3]::time" : [ 86 ],
+					"off[3]::time" : [ 90 ],
+					"on[4]::time" : [ 36 ],
+					"pm[4]::time" : [ 86 ],
+					"off[4]::time" : [ 90 ],
+					"on[5]::time" : [ 36 ],
+					"pm[5]::time" : [ 86 ],
+					"off[5]::time" : [ 90 ],
+					"on[6]::time" : [ 36 ],
+					"pm[6]::time" : [ 86 ],
+					"off[6]::time" : [ 90 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

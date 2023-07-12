@@ -1,0 +1,147 @@
+{
+	"pattrstorage" : 	{
+		"name" : "audio-manager",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"mic_inputs" : [  ],
+					"midi-harmony-on-1" : [ 0 ],
+					"midi-harmony-on-2" : [ 0 ],
+					"piano-gain" : [ -2.604181368275121 ],
+					"vocal-gain" : [ -4.160668965966053 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"mic_inputs" : [  ],
+					"midi-harmony-on-1" : [ 0 ],
+					"midi-harmony-on-2" : [ 0 ],
+					"piano-gain" : [ -2.604181368275121 ],
+					"vocal-gain" : [ -70.0 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"mic_inputs" : [  ],
+					"midi-harmony-on-1" : [ 0 ],
+					"midi-harmony-on-2" : [ 0 ],
+					"piano-gain" : [ -2.604181368275121 ],
+					"vocal-gain" : [ -70.0 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"mic_inputs" : [  ],
+					"midi-harmony-on-1" : [ 1 ],
+					"midi-harmony-on-2" : [ 0 ],
+					"piano-gain" : [ -2.604181368275121 ],
+					"vocal-gain" : [ -70.0 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"mic_inputs" : [  ],
+					"midi-harmony-on-1" : [ 1 ],
+					"midi-harmony-on-2" : [ 1 ],
+					"piano-gain" : [ -2.604181368275121 ],
+					"vocal-gain" : [ -70.0 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"mic_inputs" : [  ],
+					"midi-harmony-on-1" : [ 0 ],
+					"midi-harmony-on-2" : [ 0 ],
+					"piano-gain" : [ -2.604181368275121 ],
+					"vocal-gain" : [ -4.160668965966053 ],
+					"vocoder-gain" : [ -0.144970684643837 ],
+					"vocoder[1].1::FFTcrossover1" : [ 20 ],
+					"vocoder[1].1::FFTcrossover2" : [ 66 ],
+					"vocoder[1].1::FFTrampsmoothDown1" : [ 3 ],
+					"vocoder[1].1::FFTrampsmoothDown2" : [ 60 ],
+					"vocoder[1].1::FFTrampsmoothUp1" : [ 4 ],
+					"vocoder[1].1::FFTrampsmoothUp2" : [ 14 ],
+					"vocoder[1].1::outputGain" : [ 1.0 ],
+					"vocoder[1].1::roboSynth" : [ 0.09 ],
+					"vocoder[1].1::conv_filters::conv_voice_filter" : [ 1, 0, 2, 1, 0, 0, 151.265304565429688, 0.70967298746109, 0.665126025676727 ],
+					"vocoder[1].1::conv_filters::output_filter" : [ 3, 0, 2, 1, 0, 0, 53.735603332519531, 0.70967298746109, 0.274468988180161, 1, 5, 1, 0, 0, 735.10992431640625, 1.003646969795227, 2.5, 2, 7, 1, 0, 0, 2252.689453125, 0.70967298746109, 2.5 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

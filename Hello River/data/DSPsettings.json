@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u757006894",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"audioInterrupt" : [ 0.0 ],
+					"driver" : [ "ad_asio Yamaha Steinberg USB ASIO" ],
+					"iovs" : [ "2048" ],
+					"live.toggle" : [ 0.0 ],
+					"live.toggle[1]" : [ 1.0 ],
+					"notifyCount" : [ 10 ],
+					"output" : [ "On" ],
+					"overdrive" : [ 1.0 ],
+					"sr" : [ "48000" ],
+					"svs" : [ "256" ],
+					"watchdog" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

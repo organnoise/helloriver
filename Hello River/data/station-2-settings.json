@@ -1,0 +1,77 @@
+{
+	"pattrstorage" : 	{
+		"name" : "station-2-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.dial" : [ 0.503937005996704 ],
+					"live.dial[1]" : [ 0.0 ],
+					"live.dial[2]" : [ 1.0 ],
+					"live.dial[3]" : [ 0.0 ],
+					"live.dial[4]" : [ 1.0 ],
+					"mc_pianoGain" : [ 0.0 ],
+					"midi-harmony-on-1" : [ 0 ],
+					"midi-harmony-on-1[1]" : [ 0 ],
+					"piano-gain" : [ -9.403699970029692 ],
+					"reverb" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "ValhallaSupermassive",
+							"origin" : "ValhallaSupermassive.vst3info",
+							"type" : "VST3",
+							"subtype" : "AudioEffect",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "ValhallaSupermassive.vst3info",
+								"plugindisplayname" : "ValhallaSupermassive",
+								"pluginsavedname" : "C74_VST3:/ValhallaSupermassive",
+								"pluginsaveduniqueid" : 1591354953,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"sliderorder" : [  ],
+								"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+								"blob" : "1153.VMjLgfGA...OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9fSLv3hUMczXWEjKt3hYt3hKt.kKt3hKtDDS5gEcyQjKtvjYDYTR5AkaA4hKtfjch0TQwHlKDYmKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKB4VaUMTRSgDLH4hKtXWdOMCLFElYXcUV30zUZUGMV8DZDk1R1gjPHsFMwfUcQYkVzMlUOgFUEUkQvHjSncSZOYlcoU0Y2YjVmcmQgcVSUMlcUwlXyUTLhk2ZrM1ZAIjXxUkLY8FMrU0ZIIiXugCaggCRRwDcLk1R1gjPHYWRWkUdUYzXNUjUgsFLogjaIc0R3gjPH0zZFQFNHIDSzQzPMQiXCwjLtjGS5gTdLYGR4wDdHkFRlAEUYIWQVQ1Tq0VXoASZHY2LR0DZtHTTqcmUXQCM5EldUY0Sn4RZKkmY4wjcDMUS4o1PMgGQCwzLDMUS5gjPHQTUFE1YqIyUM0zUOglKosDdtLjS4wTdLkGRC4TdXkVS3I1TNECRBgDQUYTXmslLUcVRGIFNHIDSzgUdLMiZS4DMpMkSyPUZMQCTC4zLTkFRlwDQgsVQrIFNHIESz4RZHYFVTk0ZQwFVm0TLZgCRBwDcPkGSynVdLoGQ40jLDkVS1gTZMkGQogjYPQUVz0zUZo2ZW8DZDk1R1gjPHc0ZFkkdmY0SnQTZKYGRBgDS3DyXCU0QigCRBwDcPMES54xPLYmKCwjdTkFSzn1TMkGRBgDRqESVt0DUioGLogjcyfGSzPzTNQiZS4zLpkWS5Y1PLYGQSwDZtH0T0EEaTcVTWkENHIDSzwTZMcmKCwjctLDS2AUdLYGUSwzcTkFRlomdgoVTTkkcQcjV3fjPLQGV4wjLtLDS14RZLoGSSwzLXMkSvPTZHYld5ElZUY0Sn4RZKYmY4wTdLkGS4wzTMMCQo0zLXMDS3gjPHIUUwH1ZI01XqEkULgCRBwDctjFRlgTUYkWUrIVLUYTV3oWZHY2LBwDZtfFUq0zUYgWVWkkZMM0Sn4RZKYGRBgjTUEiXqkTaisVTF0DNHIDSz4RZLMCRC4zLlMES2A0PMACR4wTLHMESn4hTg81YGMUcMEiV3fjPLglKRM1aiUkVpE0QZgCRB4DdtjFRlQ0UZgTUVoUamYzX3fjPMkGUogTcyLjKt3hKt3hKt3hKtXlTU0DUQAURWoULEYzXqEEUXoWQF4RPDYFTzDzUXkWSG4RPDYlKtnWPt3hKt3hKt3hKJUELPUTPqI1aYcEV5UkQQcVTWgEOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
+							}
+
+						}
+ ],
+					"vocal-gain" : [ -70.0 ],
+					"vocoder-gain" : [ -16.513958482462414 ],
+					"bp.Classroom Filter::CV1" : [ 0.0 ],
+					"bp.Classroom Filter::CV2" : [ 0.0 ],
+					"bp.Classroom Filter::CV3" : [ 0.0 ],
+					"bp.Classroom Filter::Freq" : [ 1094.388047712398702 ],
+					"bp.Classroom Filter::Gain" : [ 1.0 ],
+					"bp.Classroom Filter::Resonance" : [ 0.75 ],
+					"bp.Classroom Filter::filter_mode" : [ 0.0 ],
+					"bp.Classroom Filter::power[1]" : [ 0.0 ],
+					"bp.Classroom Filter::spectral" : [ 0.0 ],
+					"bp.LPF::CV1[1]" : [ 0.0 ],
+					"bp.LPF::CV2[1]" : [ 0.0 ],
+					"bp.LPF::CV3[1]" : [ 0.0 ],
+					"bp.LPF::Freq" : [ 261.999999999999943 ],
+					"bp.LPF::FreqMode" : [ 0.0 ],
+					"bp.LPF::Offset[2]" : [ 0.0 ],
+					"bp.LPF::Res" : [ 0.0 ],
+					"bp.LPF::power[1]" : [ 0.0 ],
+					"bp.Compressor::Attack" : [ 133.0 ],
+					"bp.Compressor::Bypass" : [ 0.0 ],
+					"bp.Compressor::Input" : [ 0.0 ],
+					"bp.Compressor::Output" : [ 9.061418 ],
+					"bp.Compressor::Ratio" : [ 44.0 ],
+					"bp.Compressor::Release" : [ 135.0 ],
+					"bp.Compressor::Threshold" : [ -26.929134000000001 ],
+					"bp.Compressor::slider[2]" : [ 133 ],
+					"bp.Compressor::slider[3]" : [ 135 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

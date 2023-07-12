@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "RX 10 Voice De-noise",
+	"origin" : "RX 10 Voice De-noise.vst3info",
+	"type" : "VST3",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "RX 10 Voice De-noise.vst3info",
+		"plugindisplayname" : "RX 10 Voice De-noise",
+		"pluginsavedname" : "C74_VST3:/RX 10 Voice De-noise",
+		"pluginsaveduniqueid" : -1437375877,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [  ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "1110.VMjLgzDA...OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9bSMv3xR1XCTtfjKt3hKlMiPt3hKD4hPt3hYG01bsQiT4MWRLAkKyXSNWclQNISMAc2PCQmLZA2T0nVVhQFS2QGMPUWRgYEZUklK2gDQukzTFsRY04RLNEjMtjDT1omapkzU1wVUBMWY1.WUwYUPxHyPmAkVqX1QJcVXq4VRRgFQ5AUYCMVYrMibVwFYWQEctLWT5QiTJ8jZHQ2T1rTXZciTBsTVwQWaIciXnYFQDUWZ5ckVtQFdtP2M2YTL2HyMkcEaqPjVowlX4PVPwH2cz.kQD4xY3YUZ2XEd4cjXHo1ToEzc0czUZYCLSETctokUxbFLVETMTIkc4AScyQUMD8lYFQVUuojXWAiU5gkR0YyRwgEV54DSpwTZA4Vc1DEZpoWXtnGVlgjP4oWXM81Mt3TaUsjQqgFQy.ycwDkdP4xXZwFNm4zU1gyaxokMBsxStbUazT2MII2LrgmdQQEaDQjaMoTbNcyMwk1PqACZGgiQ3gWRpE1aAkTPtsjK0o1MU8jaQAkZhE0XzTCRF0FUOYGSZoTVzPiKQckPnMCUvEiM4jTZFIUdDQFZX4jYNkTSi8lYRgUczjWXScERlMSQhw1QZomb3rhZEkCLokGQFAyRMMiUksxPvb0c0XDNicDZycmSCwzQncjaocjdVozciEzZXkVNVMyYX0ldKYEarEyPyo0RqYzXBsFc3bWLwTSLFgkL5EGcwLTXKsFaiIzZwfCLMM2XxcGaVYjSNwlUyEyUZASTToEV0nUMvEVVZYVSRMTTgszZwLlPq4DNiYDVYoFc2DkLi4Vbq8VXEQkUnMSaHYyargVLOkjdJM0T0cTbQYiY1fFR2sFUskEMvE2TxbTYEojaskmcxrVa07TYvnGS1M1XyEGMVk0PYojMYA0QGYzZHM0Rtj2U4DiMpojPDUVNvXVaBgFQ0vTYqfETyIlUWAUcZcFbPoWVIIUQKYlVCEEbTQDLVwzaVcFUwE0TAk1arojaAA2QQ4VUscVUIECd1bGQUAmcmYyRDoVbBMidy0FVyAmctcUXznES4HGbOcjM131UvEiVC81aKgGdkojZBUUSzXCbt01M23RZmElYOITTPUDSrwlU5gCbxP2L2nVV5QCRZ4FQDEkXFkzJv3FM4UTbpQzTBglT1LEQPQmQzDjTHISVtIzawI0PiYVbDQTVZgSPoQSRjcFT0jUVj8FMnMmYwYSLBcSPj4jMFA0L4MyJUkjUmkiKUMEMLAETB0VbtPFbxTUVMY0bkgyQqomQEMGaOkWX2jEYo8TdgIWY3EldwglMJYSXXUlPz7zawckR2wDbtTiPkgVZnklPMIWUoIUcqgSNWI2asgWa77RRC8Vav8lak4Fc9vSREQVZzMzatQmbuwFakImOv3BOujTQjkFcC8lazI2arwVYx4COuX0TTMCTrU2Yo41TzEFck4C."
+	}
+
+}

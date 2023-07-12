@@ -1,0 +1,120 @@
+{
+	"pattrstorage" : 	{
+		"name" : "hr.stations-settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"EventMonitor_VolMin" : [  ],
+					"live.toggle" : [ 0.0 ],
+					"lookahead" : [  ],
+					"masterGain" : [ 1.0 ],
+					"noteDelay" : [  ],
+					"outputFilter" : [  ],
+					"preamp" : [  ],
+					"scaleFilter" : [ 1 ],
+					"threshold" : [  ],
+					"hr.station::station-1-settings" : [  ],
+					"hr.station[2]::station-2-settings" : [  ],
+					"hr.station[3]::station-3-settings" : [  ],
+					"hr.station[7]::station-1-settings" : [  ],
+					"hr.station[5]::station-2-settings" : [  ],
+					"hr.station[4]::station-3-settings" : [  ],
+					"hr_panner[5]::left_pan" : [ 0.629921259842519 ],
+					"hr_panner[5]::right_pan" : [ 0.811023622047244 ],
+					"hr_panner[1]::left_pan" : [ 0.724409448818897 ],
+					"hr_panner[1]::right_pan" : [ 1.0 ],
+					"hr_panner[3]::left_pan" : [ 0.0 ],
+					"hr_panner[3]::right_pan" : [ 0.31496062992126 ],
+					"hr_panner[4]::left_pan" : [ 0.74015748031496 ],
+					"hr_panner[4]::right_pan" : [ 1.0 ],
+					"hr_panner[7]::left_pan" : [ 0.251968503937008 ],
+					"hr_panner[7]::right_pan" : [ 0.4251968503937 ],
+					"hr_panner[8]::left_pan" : [ 0.0 ],
+					"hr_panner[8]::right_pan" : [ 0.299212598425197 ],
+					"delaySettings::del1" : [ 915 ],
+					"delaySettings::del2" : [ 7623 ],
+					"delaySettings::del3" : [ 14285 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"EventMonitor_VolMin" : [  ],
+					"live.toggle" : [ 1.0 ],
+					"lookahead" : [ 300 ],
+					"masterGain" : [ 3.440944881889761 ],
+					"noteDelay" : [ 0 ],
+					"outputFilter" : [ 3, 0, 2, 1, 0, 0, 201.836807250976562, 1.004405617713928, 1.0, 1, 5, 1, 0, 0, 344.527587890625, 0.457081705331802, 0.745328366756439, 2, 1, 1, 0, 0, 16863.49609375, 1.004405617713928, 0.701128423213959 ],
+					"preamp" : [ 0 ],
+					"scaleFilter" : [ 0 ],
+					"threshold" : [ -1 ],
+					"hr.station::station-1-settings" : [ -1 ],
+					"hr.station[2]::station-2-settings" : [ 1 ],
+					"hr.station[3]::station-3-settings" : [ 1 ],
+					"hr.station[7]::station-1-settings" : [ 1 ],
+					"hr.station[5]::station-2-settings" : [ 1 ],
+					"hr.station[4]::station-3-settings" : [ 1 ],
+					"hr_panner[5]::left_pan" : [ 0.0 ],
+					"hr_panner[5]::right_pan" : [ 0.333333 ],
+					"hr_panner[1]::left_pan" : [ 0.0 ],
+					"hr_panner[1]::right_pan" : [ 0.3333333 ],
+					"hr_panner[3]::left_pan" : [ 0.0 ],
+					"hr_panner[3]::right_pan" : [ 0.333333 ],
+					"hr_panner[4]::left_pan" : [ 0.0 ],
+					"hr_panner[4]::right_pan" : [ 0.33333333 ],
+					"hr_panner[7]::left_pan" : [ 0.0 ],
+					"hr_panner[7]::right_pan" : [ 0.3333333 ],
+					"hr_panner[8]::left_pan" : [ 0.0 ],
+					"hr_panner[8]::right_pan" : [ 0.33333333333333 ],
+					"delaySettings::del1" : [ 915 ],
+					"delaySettings::del2" : [ 7623 ],
+					"delaySettings::del3" : [ 14285 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"EventMonitor_VolMin" : [ 0.1 ],
+					"live.toggle" : [ 0.0 ],
+					"lookahead" : [ 300 ],
+					"masterGain" : [ 1.0 ],
+					"noteDelay" : [ 0 ],
+					"outputFilter" : [ 3, 0, 2, 1, 0, 0, 201.836807250976562, 1.004405617713928, 1.0, 1, 5, 1, 0, 0, 344.527587890625, 0.457081705331802, 0.745328366756439, 2, 1, 1, 0, 0, 16863.49609375, 1.004405617713928, 0.701128423213959 ],
+					"preamp" : [ 0 ],
+					"scaleFilter" : [ 0 ],
+					"threshold" : [ -1 ],
+					"hr.station::station-1-settings" : [ -1 ],
+					"hr.station[2]::station-2-settings" : [ 1 ],
+					"hr.station[3]::station-3-settings" : [ 1 ],
+					"hr.station[7]::station-1-settings" : [ 1 ],
+					"hr.station[5]::station-2-settings" : [ 1 ],
+					"hr.station[4]::station-3-settings" : [ 1 ],
+					"hr_panner[5]::left_pan" : [ 0.333333 ],
+					"hr_panner[5]::right_pan" : [ 0.666666 ],
+					"hr_panner[1]::left_pan" : [ 0.0 ],
+					"hr_panner[1]::right_pan" : [ 0.0 ],
+					"hr_panner[3]::left_pan" : [ 1.0 ],
+					"hr_panner[3]::right_pan" : [ 1.0 ],
+					"hr_panner[4]::left_pan" : [ 0.0 ],
+					"hr_panner[4]::right_pan" : [ 0.0 ],
+					"hr_panner[7]::left_pan" : [ 0.333333333 ],
+					"hr_panner[7]::right_pan" : [ 0.66666 ],
+					"hr_panner[8]::left_pan" : [ 1.0 ],
+					"hr_panner[8]::right_pan" : [ 1.0 ],
+					"delaySettings::del1" : [ 915 ],
+					"delaySettings::del2" : [ 7623 ],
+					"delaySettings::del3" : [ 14285 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

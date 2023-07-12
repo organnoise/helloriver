@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "RX 10 Voice De-noise",
+	"origin" : "RX 10 Voice De-noise.vst3info",
+	"type" : "VST3",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "RX 10 Voice De-noise.vst3info",
+		"plugindisplayname" : "RX 10 Voice De-noise",
+		"pluginsavedname" : "C74_VST3:/RX 10 Voice De-noise",
+		"pluginsaveduniqueid" : -1437375877,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [  ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "984.VMjLg77....OVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XSM03xR1XCTtfjKt3hK1YlPt3hKpkSPt3hYG01bskEU08VSLAkKyHCMWc2a2bCaTsTXSMkV0MmSJMUUBojaBE2S5IiSRQmKjAycNg2cmUEUEshLWgVPZMkYPkzaDoUSUcCQ1kUa1jCc401Sk4zMXMjKtzVYIUjV0DTSLAUZZgWP4DzMXA2L5EkQNsjdHY2aEkWU4olPT0TdzLUbFciUpcTagUyaBYSZJwDRZ0za1HUUg4lcz7zS1AWcZkiXzQSRhoUStU1btDFbjQmZSEjZPUmLH01TzEEMpAEdngDLiMlRhcCdYY1XZw1ZSg0aW4xUoETc5cCdYoWPZUzTLQGTCQGcYkWMLUzS3PSXQ0jSWojcQIlP471QFAWVSkjaCclRQA2XKkzZWgzZ2H0ctYUQSUmSwnUdDQjXiA2JAgSURUlQ0o2Y1IiKy3DV2sTYpcTUUwlV4MiVRETbLYUVyPySWkjdqgVa4AGRKM1cGgUP2EjcMo1UxkkLCoGZBAyTJszUyQiTxIlYvHGbpkEbAIjLRAmaDAGb3LCU4ojT44RVxg2ZlQWRqsTULo1JzUGcMIFZngFaHQCYPEWTvrBZvPScjIlQ1kEYIkjLsU0JPgCM0UmLTMFcUIUUSEmZvUGVqQENUEmZvUGNVIUUAglLPECatYyMgo1bvfmavf0STcESKQTZJ41S1gVSxDDNhESQt4RcpkVcN8zZkgyavQCSGUCYK0DYYUTVJgSVlEGQmcWMpYjZ2.ScqDzax4RRiUWa2HGTpYFY4jSTpMVQxQ2YMQFZyAEU0g0bqsFTygFRgoTZJczTwTkRvHkdxYmXvclRVYFNQQjby3DaVcWTj8zUtgmQzcyXrolXg4RaCYSSJEmMw.yL3EUXqPFaGEUc5E2ZNIUUxnVVjojcnUCa23lR1bGUG41PMsVNHoVPqcWVvo0TxrDY1TFc2kFVz4xTtkTUtoVZrcUdqUGUyAkTDYDQrwTaPITcGcCRMkkPFECTz.mZTcjVxIDLIgyQ5EkQ1jjapYCdxEGLnIlciMiSBcSRjUSSqQUNhQyJxg1Xt8TTv.URsQka1AiPnQ0QUUUSVIFY3bzZ3YTV3v1TvzjSUIyLTMVZ07FcQk1b2DGZ47Da1f1JMk0JREDc2YkYNkWYAEkUyYGQ1rlUZwTc2sRPUklYEkiK77RRC8Vav8lak4Fc9vSREQVZzMzatQmbuwFakImOv3BOujTQjkFcC8lazI2arwVYx4COuX0TTMCTrU2Yo41TzEFck4C."
+	}
+
+}

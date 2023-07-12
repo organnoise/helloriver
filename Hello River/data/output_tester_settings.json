@@ -1,0 +1,29 @@
+{
+	"pattrstorage" : 	{
+		"name" : "output_tester_settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"mc.live.gain~" : [ 1.81102362204723 ],
+					"mc.live.gain~[1]" : [ -9.633188541727648 ],
+					"mc.live.gain~[2]" : [ -11.354330708661415 ],
+					"toggle" : [ 0 ],
+					"bp.Compressor::Attack" : [ 133.0 ],
+					"bp.Compressor::Bypass" : [ 0.0 ],
+					"bp.Compressor::Input" : [ -3.30708661417323 ],
+					"bp.Compressor::Output" : [ 9.061418 ],
+					"bp.Compressor::Ratio" : [ 44.0 ],
+					"bp.Compressor::Release" : [ 135.0 ],
+					"bp.Compressor::Threshold" : [ -26.929134000000001 ],
+					"bp.Compressor::slider[2]" : [ 133 ],
+					"bp.Compressor::slider[3]" : [ 135 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
