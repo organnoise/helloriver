@@ -1,9 +1,9 @@
 {
-	"name" : "Hello River v6",
+	"name" : "Hello River",
 	"version" : 1,
-	"creationdate" : 3770394584,
-	"modificationdate" : 3771338936,
-	"viewrect" : [ 0.0, 87.0, 640.0, 959.0 ],
+	"creationdate" : 3770383784,
+	"modificationdate" : 3772634586,
+	"viewrect" : [ 0.0, 100.0, 640.0, 959.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -71,6 +71,21 @@
 				"local" : 1
 			}
 ,
+			"eventGain.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"eventMonitor.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"threshWatch.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"hr.audio-event-manager.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -126,32 +141,17 @@
 				"local" : 1
 			}
 ,
-			"hr.keyChanger.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"hr.midi-scaler.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"hr.noteDelay.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"piano-loader.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"hr.delaySetter.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
 			"hr.interface_shortcuts.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"hr.keyChanger.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -166,12 +166,27 @@
 				"local" : 1
 			}
 ,
+			"hr.midi-scaler.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"hr.noteDelay.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"hr.panner.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"hr.play-stage.maxpat" : 			{
+			"hr.piano.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"piano-loader.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -182,26 +197,6 @@
 			}
 ,
 			"hr.stations.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"eventGain.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"eventMonitor.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"threshWatch.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"hr.piano.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -270,10 +265,55 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
+,
+			"hr.play-stage.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
 
 		}
 ,
 		"media" : 		{
+			"DL4_F_L.aif" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"DL4_F_S.aif" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"DL4_M_L.aif" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"DL4_M_S.aif" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"DTLJ_Logo-scaled.jpg" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"Noise Test 1 - Hello River Ambient Site Recordings.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Art/Contract Work/Daily TLJ/June 2023/Hello River v6/media",
+					"projectrelativepath" : "../../../June 2023/Hello River v6/media"
+				}
+
+			}
+,
+			"render.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
 			" 10 normal-normal.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
@@ -319,31 +359,6 @@
 				"local" : 1
 			}
 ,
-			"DL4_F_L.aif" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"DL4_F_S.aif" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"DL4_M_L.aif" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"DL4_M_S.aif" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"DTLJ_Logo-scaled.jpg" : 			{
-				"kind" : "imagefile",
-				"local" : 1
-			}
-,
 			"SM58_F_L.aif" : 			{
 				"kind" : "audiofile",
 				"local" : 1
@@ -364,18 +379,8 @@
 				"local" : 1
 			}
 ,
-			"Noise Test 1 - Hello River Ambient Site Recordings.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
 			"Noise Test 3 - Hello River Ambient Site Recordings.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"render.png" : 			{
-				"kind" : "imagefile",
 				"local" : 1
 			}
 ,
@@ -402,11 +407,6 @@
 				"local" : 1
 			}
 ,
-			"dict_access.js" : 			{
-				"kind" : "javascript",
-				"local" : 1
-			}
-,
 			"getWeekday.js" : 			{
 				"kind" : "javascript",
 				"local" : 1
@@ -426,17 +426,17 @@
 				"kind" : "javascript",
 				"local" : 1
 			}
+,
+			"dict_access.js" : 			{
+				"kind" : "javascript",
+				"local" : 1
+			}
 
 		}
 ,
 		"data" : 		{
 			"ValhallaSupermassive.maxsnap" : 			{
 				"kind" : "maxsnapshot",
-				"local" : 1
-			}
-,
-			"hr.audio-event-manager-settings.json" : 			{
-				"kind" : "json",
 				"local" : 1
 			}
 ,
@@ -506,6 +506,11 @@
 			}
 ,
 			"DSPsettings.json" : 			{
+				"kind" : "json",
+				"local" : 1
+			}
+,
+			"audio-event-manager.json" : 			{
 				"kind" : "json",
 				"local" : 1
 			}
